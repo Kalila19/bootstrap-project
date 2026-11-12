@@ -22,8 +22,9 @@ h1, h2 {
 /* Hero & Header */
 
 #hero {
-    background-color: #dbdcde;
     background-image: url(../images/background.webp);
+    background-color: #dbdcde;
+    background-size: cover;
     background-position: 50% 70%;
     min-height: 500px;
     padding: 5% 7%;
