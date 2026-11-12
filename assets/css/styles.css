@@ -23,6 +23,17 @@ h1, h2 {
     border-radius: 0; /* value makes a crisp corner; not inherited by child elements */
     /* wildcard selector ensures that all descendant elements of the card follow the rule */
 }
+
+/* Custom button styles  */
+.blue-button {
+    background-color: #1f7798;
+    border: #1f7798;
+}
+
+.blue-button:hover {
+    background-color: #1d6d8a;
+    border: #1d6d8a;
+}
 /* Hero & Header */
 
 #hero {
